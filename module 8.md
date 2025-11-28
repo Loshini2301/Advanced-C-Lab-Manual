@@ -1,6 +1,6 @@
 ## EXP NO:6 C  Program PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 ### NAME:LOSHINI G
-### REG NO 212223220051
+### REG NO:212223220051
 ### DEPT:IT
 ### Aim:
 To write a C Program print the lowercase English word corresponding to the number
