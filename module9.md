@@ -1,6 +1,6 @@
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 ### NAME:LOSHINI G
-### REG NO 212223220051
+### REG NO:212223220051
 ### DEPT:IT
 ### Aim:
 To write a C program to display stack elements using an array.
