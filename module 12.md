@@ -2,7 +2,7 @@
 
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ### NAME:LOSHINI G
-### REG NO 212223220051
+### REG NO:212223220051
 ### DEPT:IT
 ### Aim:
 To write a C program to display stack elements using linked list.
