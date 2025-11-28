@@ -1,6 +1,6 @@
 ## EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 ### NAME:LOSHINI G
-### REG NO 212223220051
+### REG NO:212223220051
 ### DEPT:IT
 ### Aim:
 To write a C program to search a given element in the given linked list.
