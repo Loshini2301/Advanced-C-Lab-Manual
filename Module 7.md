@@ -1,6 +1,6 @@
 ## EXP NO:1 C Program FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 ### NAME:LOSHINI G
-### REG NO 212223220051
+### REG NO:212223220051
 ### DEPT:IT
 ### Aim:
 To write a C Program for array of structure to check eligibility for the vaccine person age above 6 years of age.
